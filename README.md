@@ -1,10 +1,9 @@
-# Hola 👋
+# Hola 👋, Mi nombre es Carla Reneé Perez Suriano.
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-# Acerca de mi... <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+# <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Acerca de mi...
 
-Mi nombre es Carla Reneé Perez Suriano.
 Soy una estudiante de la universidad de Mariana Galvez, estoy en mi Octavo ciclo y estoy emocionada de compartir un poco sobre mi viaje como desarrolladora junior👩‍💻. siempre he sentido una fuerte atracción por la tecnología y el mundo digital. Cada línea de código que escribo y cada desafío que enfrento me inspiran a seguir aprendiendo y creciendo en este apasionante campo.
 
 - 🌱 Actualmente estoy aprendiendo ...
