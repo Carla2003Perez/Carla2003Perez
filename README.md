@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Carla Perez</h1>
 <h3 align="center">Soy una Dessarolladora Junior</h3>
-👨‍💻 Todos mis proyectos están disponibles en [https: //portafoliocarla.netlify.app/](https://portafoliocarla.netlify.app/)
+👨‍💻 Todos mis proyectos están disponibles en (https://portafoliocarla.netlify.app/)
 📫 Cómo contactarme **surianoc79@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</ h3>
