@@ -1,8 +1,7 @@
 # Hola 👋, mi nombre es Carla Reneé Perez Suriano
-<h3 align="center">Soy una Dessarolladora Junior</h3>
+
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mi***
-<h3 align="left">Conéctate conmigo:</ h3>
 <p align="left">
 </p>
 
